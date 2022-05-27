@@ -76,11 +76,11 @@ API REST que cumple las siguintes características:
 
 <!-- EJEMPLOS DE USO -->
 
-## Uso Endpoints
+## Endpoints
 
 Esta es una lista de los Endpoints del proyecto que puedes ejecutar en Postman:
 
-| method | endpoint                       | role    | use                                   |
+| Método | Endpoint                       | Rol   | Funcion                                   |
 | ------ | ------------------------------ | ------- | ------------------------------------- |
 | POST   | `/users/createUser`            | user    | Crear nuevo usuario                   |
 | POST   | `/users/login`                 | user    | Login                                 |
