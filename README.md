@@ -20,7 +20,7 @@
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#uso-endpoints">Endpoints</a></li>
+    <li><a href="#endpoints">Endpoints</a></li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
     <li><a href="#conociemientos">Conocimiento</a></li>
