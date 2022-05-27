@@ -98,7 +98,7 @@ Esta es una lista de los Endpoints del proyecto que puedes ejecutar en Postman:
 | POST   | `/orders/createOrder`          | user    | Crear pedido                          |
 | GET    | `/orders/getAll`               | user    | Recibe lista de pedidos               |
 | POST   | `/genres/addGenre`             | manager | Añadir género                         |
-| GET    | `/genres/getGenreById/:id`     | user    | usca género por id                    |
+| GET    | `/genres/getGenreById/:id`     | user    | Busca género por id                   |
 | GET    | `/genres/getGenreByName/:name` | user    | Busca género por nombre               |
 | GET    | `/genres/getGenre`             | user    | Lista total de géneros con sus libros |
 | GET    | `/genres/getAll`               | user    | Lista total de géneros                |
