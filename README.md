@@ -11,7 +11,7 @@
     <li>
       <a href="#introduccion">Introducción</a>
       <ul>
-        <li><a href="#hecho-con">Hecho con</a></li>
+        <li><a href="#hecho-con">Tecnologías</a></li>
       </ul>
     </li>
     <li>
@@ -20,8 +20,7 @@
         <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#uso-endpoints">Ejemplos de uso</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#uso-endpoints">Endpoints</a></li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
     <li><a href="#conociemientos">Conocimiento</a></li>
@@ -32,18 +31,18 @@
 
 ## Introducción
 
-En el proyecto de backend se combinará los conocimientos adquiridos en las
-tecnologías node + express, además de mysql/sequelize.
-El alumno tendrá que hacer la presentación y defensa de un diagrama
-explicando las relaciones entre las tablas. El proyecto consistirá en una tienda online(e-commerce)
+En este proyecto enfocado al backend combinamos nuestros conocimientos
+adquiridos en las tecnologías NodeJS, Express, MySql y Sequelize.
+Enfocamos el proyecto hacia la parte del backend, que consistirá en una tienda online(e-commerce).
+En este caso hemos optado por basarnos en una tienda de libros, donde los usuarios pueden registrarse,
+iniciar sesión, consultar los libros que están a la venta y realizar pedidos.
 
-### Hecho con
+### Tecnologías
 
-Aquí presentamos las tecnologías empleadas en este proyecto:
+Aquí presentamos las herramientas empleadas en este proyecto:
 
 - [Node.js](https://node.org/)
-- [React.js](https://reactjs.org/)
-- [sequelize](https://sequelize.org/)
+- [Sequelize](https://sequelize.org/)
 - [Multer](https://github.com/expressjs/multer)
 - [MySql](https://MySql.org/)
 - [Postman](https://www.postman.com/)
@@ -53,24 +52,24 @@ Aquí presentamos las tecnologías empleadas en este proyecto:
 
 ## Descripción del proyecto
 
-Una vez analizadas las necesidades del proyecto, se espera
-que el alumno desarrolle una API REST que sea capaz de lo siguiente:
+Dadas las necesidades del proyecto, hemos desarrollado una 
+API REST que cumple las siguintes características:
 
-- Registro de usuarios usando Bcrypt.
-- Login de usuarios + token + middleware.
+- Permite registrar usuarios haciendo uso de Bcrypt.
+- Login de usuarios (sirviendonos de Tokens y Middlewares).
 - Que sea capaz de crear un CRUD.
-- Al menos una relación Many to Many y otra One to Many.
-- Utilización de seeders
+- Cuenta con relaciones Many to Many y One to Many.
+- Utilización de seeders.
 
 ### Instalación
 
-1. Para la instalación de la aplicación hay que clonarse el siguiente repositorio:
+1. Para la instalación de la aplicación has de clonarte el siguiente repositorio:
 
    ```sh
    git clone https://github.com/Santiremix/E-Commerce
    ```
 
-2. Instalar las dependencias del proyecto:
+2. Tambien has de instalar las dependencias del proyecto:
    ```sh
    npm install
    ```
@@ -79,7 +78,7 @@ que el alumno desarrolle una API REST que sea capaz de lo siguiente:
 
 ## Uso Endpoints
 
-Esta es una lista de los endpoints que puedes ejecutar en Postman:
+Esta es una lista de los Endpoints del proyecto que puedes ejecutar en Postman:
 
 | method | endpoint                       | role    | use                                   |
 | ------ | ------------------------------ | ------- | ------------------------------------- |
@@ -106,16 +105,17 @@ Esta es una lista de los endpoints que puedes ejecutar en Postman:
 
 <!-- ROADMAP -->
 
-## Requerimientos obligatorios
+## Experiencia
 
-- [x] Uso de ramas con git, cuando se termine el proyecto deberán quedar dos ramas la master o main y la develop.
-- [x] Presentación de README excelente.
+- [x] Hemos perfeccinado el trabajo en equipo mediante Git haciendo uso de distintas ramas de desarrollo para cada aspecto requerido en el proyecto.
+- [x] Nos hemos servido de Trello para organizar la distribución del trabajo y optimizar el proceso.
+- [x] Hemos perfeccionado la realización de pruebas API con el uso Psotman.
 
 <!-- LICENCIA -->
 
 ## Licencia
 
-Este programa es de código abierto y puede ser utilizado por cualquiera que lo desee.
+Este programa es de código abierto y puede ser utilizado por cualquier persona que lo desee.
 
 <!-- CONTACTO -->
 
