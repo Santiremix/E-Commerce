@@ -109,7 +109,7 @@ Esta es una lista de los Endpoints del proyecto que puedes ejecutar en Postman:
 
 - [x] Hemos perfeccinado el trabajo en equipo mediante Git haciendo uso de distintas ramas de desarrollo para cada aspecto requerido en el proyecto.
 - [x] Nos hemos servido de Trello para organizar la distribución del trabajo y optimizar el proceso.
-- [x] Hemos perfeccionado la realización de pruebas API con el uso Psotman.
+- [x] Hemos perfeccionado la realización de pruebas API con el uso de Postman.
 
 <!-- LICENCIA -->
 
