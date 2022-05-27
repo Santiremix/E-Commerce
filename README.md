@@ -1,6 +1,6 @@
 <!-- LOGO -->
 
-<p allign="center">
+<p align="center">
   <img width="400" height="240" src='./assets/bookstore.jpg'>
 </p>
 
