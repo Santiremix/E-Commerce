@@ -42,6 +42,7 @@ iniciar sesión, consultar los libros que están a la venta y realizar pedidos.
 Aquí presentamos las herramientas empleadas en este proyecto:
 
 - [Node.js](https://node.org/)
+- [Express](https://expressjs.com/)
 - [Sequelize](https://sequelize.org/)
 - [Multer](https://github.com/expressjs/multer)
 - [MySql](https://MySql.org/)
