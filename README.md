@@ -31,10 +31,10 @@
 
 ## Introducción
 
-En este proyecto enfocado al backend combinamos nuestros conocimientos
+En este proyecto combinamos nuestros conocimientos
 adquiridos en las tecnologías NodeJS, Express, MySql y Sequelize.
-Enfocamos el proyecto hacia la parte del backend, que consistirá en una tienda online(e-commerce).
-En este caso hemos optado por basarnos en una tienda de libros, donde los usuarios pueden registrarse,
+Enfocamos el proyecto hacia la parte del backend, que consistirá en una tienda online (E-Commerce).
+En este caso hemos optado por basarnos en una tienda de libros donde los usuarios pueden registrarse,
 iniciar sesión, consultar los libros que están a la venta y realizar pedidos.
 
 ### Tecnologías
