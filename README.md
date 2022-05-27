@@ -80,7 +80,7 @@ API REST que cumple las siguintes características:
 
 Esta es una lista de los Endpoints del proyecto que puedes ejecutar en Postman:
 
-| Método | Endpoint                       | Rol   | Funcion                                   |
+| Metodo | Endpoint                       | Rol   | Funcion                                   |
 | ------ | ------------------------------ | ------- | ------------------------------------- |
 | POST   | `/users/createUser`            | user    | Crear nuevo usuario                   |
 | POST   | `/users/login`                 | user    | Login                                 |
