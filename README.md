@@ -51,7 +51,7 @@ Aquí presentamos las herramientas empleadas en este proyecto:
 
 <!-- DESCRIPCION -->
 
-## Descripción del proyecto
+## Descripción
 
 Dadas las necesidades del proyecto, hemos desarrollado una 
 API REST que cumple las siguintes características:
