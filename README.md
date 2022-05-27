@@ -47,7 +47,7 @@ Aquí presentamos las herramientas empleadas en este proyecto:
 - [Multer](https://github.com/expressjs/multer)
 - [MySql](https://MySql.org/)
 - [Postman](https://www.postman.com/)
-- [JWT](https://jwt.io//)
+- [JWT](https://jwt.io/)
 
 <!-- DESCRIPCION -->
 
