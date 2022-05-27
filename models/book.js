@@ -32,6 +32,9 @@ module.exports = (sequelize, DataTypes) => {
           msg: "Por favor introduce precio del producto",
         },
       },
+    },
+    Image: {
+      type: DataTypes.STRING,
     }    
   }, {
     sequelize,

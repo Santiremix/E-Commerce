@@ -3,7 +3,9 @@ const { Op } = Sequelize;
 
 const BookController = {
     addBook(req, res, next) {
-        Book.create({...req.body })
+      if (req.file)req.body.Image = (req.file.destination + req.file.filename);
+      console.log(req.file)  
+      Book.create({...req.body })
             .then(book => {
               book.addGenre(req.body.GenreId)
               res.status(201).send({ message: 'Libro añadido exitosamente.', book })
