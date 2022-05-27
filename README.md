@@ -23,7 +23,7 @@
     <li><a href="#endpoints">Endpoints</a></li>
     <li><a href="#licencia">Licencia</a></li>
     <li><a href="#contacto">Contacto</a></li>
-    <li><a href="#conocimiento">Conocimiento</a></li>
+    <li><a href="#conocimientos">Conocimientos</a></li>
   </ol>
 </details>
 
